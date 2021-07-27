@@ -1,3 +1,4 @@
-# Typescript Project Skeleton
+# Typescript/NextJS Project Skeleton
 
-This is a project skeleton, using Typescript, Testem, and Prettier for simple scripts
+This is a project skeleton, using Typescript, NextJS, Testem, and Prettier for
+static site dev
